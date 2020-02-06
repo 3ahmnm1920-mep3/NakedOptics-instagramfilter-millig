@@ -8,9 +8,11 @@
 + https://youtu.be/HYQ_Kzyygk8 			
 + https://youtu.be/P6kZl8-QzUU	
 + https://youtu.be/mIt2fdjExy0
++ https://youtu.be/_BHo-QcQbgU
++ https://youtu.be/xSgRgcNqzfU
++ https://youtu.be/LDbmH8pyjjY
 
 ### Brainstorming/Some Ideas
-+ Small snowflakes flying around the glasses or appear when you blink
++ Small snowflakes fly around the glasses and/or appear when you blink
 + The material changes when you open your mouth
 + Animate the glass/ change color of the glass
-+ Deform the glasses from one model to another one when you open your mouth
