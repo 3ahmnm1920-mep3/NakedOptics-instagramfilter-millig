@@ -10,7 +10,7 @@ Create an InstagramFilter for NakedOptics with SparkAR and Maya
 + The color of the material changes when you open your mouth
 
 <div>
-<img src="./Visuals/snowflake_visual.jpg" width="500">
+<img src="./Visuals/snowflake_visual.jpg" width="150">
 </div>
 
 ## Idea
