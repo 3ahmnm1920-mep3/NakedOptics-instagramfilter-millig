@@ -9,7 +9,8 @@ Create an InstagramFilter for NakedOptics with SparkAR and Maya
 + Small snowflakes fly around the glasses and appear next to your eyes when you blink
 + The color of the material changes when you open your mouth
 
-+model a snowflake in Maya 
++ model a snowflake in Maya
+ 
 Inspiration:
 <div>
 <img src="./Visuals/snowflake_visual.jpg" width="150">
