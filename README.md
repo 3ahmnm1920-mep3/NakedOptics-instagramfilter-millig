@@ -4,6 +4,7 @@
 Create an InstagramFilter for NakedOptics with SparkAR and Maya
 
 ## Visuals
+<img src="./Visuals/SparkAr_26032020.jpg">
 
 ## Concept
 + Small snowflakes fly around the glasses and appear next to your eyes when you blink
