@@ -12,7 +12,7 @@ The goal of this project is to create an InstagramFilter for the company NakedOp
 + add a blue color preset to represent the cold
  
 ## Moodboard
-<img src="./Visuals/Moodboard_snowflake.jpg" width="300">
+<img src="./Visuals/Moodboard_snowflake.jpg" width="150">
 
 
 ## Software
