@@ -4,7 +4,7 @@
 The goal of this project is to create an InstagramFilter for the company NakedOptics with SparkAR.
 
 ## Visuals
-<img src="./Visuals/SparkAr_26032020.jpg" width="300"> <img src="./Visuals/Illig_gif.mov" width="300">
+<img src="./Visuals/SparkAr_26032020.jpg" width="300"> 
 
 ## Concept
 + Small snowflakes fly around the glasses and your head
