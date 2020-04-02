@@ -1,7 +1,7 @@
 # NakedOptics-InstagramFilter-millig
 
 ## Project Description
-Create an InstagramFilter for NakedOptics with SparkAR and Maya
+The goal of this project is to create an InstagramFilter for the company NakedOptics with SparkAR.
 
 ## Visuals
 <img src="./Visuals/SparkAr_26032020.jpg" width="300">
@@ -9,16 +9,15 @@ Create an InstagramFilter for NakedOptics with SparkAR and Maya
 ## Concept
 + Small snowflakes fly around the glasses and appear next to your eyes when you blink
 + The color of the material changes when you open your mouth
-
 + add a blue color preset to represent the cold
  
-Inspiration:
-<div>
-<img src="./Visuals/snowflake_visual.jpg" width="150">
-</div>
+## Moodboard
+<img src="./Visuals/Moodboard_snowflake.jpg" width="300">
 
 
-### Idea
+## Software
++ Spark AR Studio 81.1
++ Autodesk Maya 2018
 
 ### References
 + https://youtu.be/_B0G1jIaxMA - face tattoos			
